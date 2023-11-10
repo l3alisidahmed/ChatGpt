@@ -5,6 +5,8 @@ from tkinter import messagebox
 from bot import ChatGPTBot
 import time
 
+# sido
+
 
 # Define the class for the chat app
 class App:
